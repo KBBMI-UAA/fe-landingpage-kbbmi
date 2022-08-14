@@ -168,6 +168,30 @@ div.cardlist a.btn-detail-devcode {
     border-bottom-right-radius: 12px;
 }
 
+section.ask-us {
+    background-color: #D9D9D9;
+    padding: 80px;
+}
+
+section.ask-us h2 {
+    font-family: 'Righteous', cursive;
+}
+
+section.ask-us p {
+    font-family: 'Nunito', sans-serif;  
+}
+
+section.ask-us a {
+    padding: 10px 30px 10px 30px;
+    font-family: 'Nunito', sans-serif;
+    border-top-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+
+footer p {
+    font-family: 'Nunito', sans-serif;
+}
+
 @media (min-width: 992px) {
     div.hero-ilus img {
         width: 100%;
